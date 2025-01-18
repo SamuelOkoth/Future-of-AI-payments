@@ -1,4 +1,4 @@
-# Future-of-AI-payments
+# Future-of-AI-payments.
 
 ## The Future of Payments for AI Workforce: Why Chimoney is the Perfect Solution for Paying Global Data Annotators
 
